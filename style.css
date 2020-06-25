@@ -9,7 +9,6 @@ h4 {
   text-align: center;
 }
 .header {
-  border-radius:
   margin-top: 100px;
   background-color: lightgreen;
   min-height: 200px;
@@ -17,11 +16,11 @@ h4 {
   text-align: center;
 }
 .sidebar {
-    background: lightsalmon;
-    float: left;
-    margin-right: 10px;
-    min-width: 300px;
-    max-width: 200px;
+  background: lightsalmon;
+  float: left;
+  margin-right: 10px;
+  min-width: 300px;
+  max-width: 200px;
 }
 .sidebar1 {
   background-color: goldenrod;
